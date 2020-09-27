@@ -2,3 +2,4 @@ Gitの練習をしていきます
 GITの基本的なワークフローについて練習していきます
 ・git add
 ・git commit
+・git rm
