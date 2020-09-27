@@ -3,3 +3,4 @@ GITの基本的なワークフローについて練習していきます
 ・git add
 ・git commit
 ・git rm
+・git status
