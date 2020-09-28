@@ -4,3 +4,4 @@ GITの基本的なワークフローについて練習していきます
 ・git commit
 ・git rm
 ・git status
+・git diff
